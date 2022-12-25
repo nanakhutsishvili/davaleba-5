@@ -40,7 +40,8 @@ body    {  background-color: #FFFFFF; }
 .img3   { width: 208px;
           height: 322px;}
 
-.div5   { float: left; }
+.div5   { float: left; 
+          height: 322px;}
 
 .p6     { color: #757575;
           margin-left: 20px }
