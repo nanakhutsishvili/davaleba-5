@@ -20,14 +20,15 @@ body    {  background-color: #FFFFFF; }
 .div1   { display: flex;
           justify-content: center;
           margin-top: 20px;
-          width: 500px;}
+          width: 500px;
+        }
          
 
 .div2   { float: left;
-          margin-top: 20px;}
+          height: 222px;}
 
 .div3   { color: #000000;
-           padding: 20px; }
+           height: 222px;}
 
 .div4   { display: flex;
           justify-content: center; 
